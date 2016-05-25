@@ -11,5 +11,5 @@ This addon and example tested at
 
 ## Dependencies
 
-* ofxOsc
+* ofxOsc (example only)
 * JSONXX(included)
